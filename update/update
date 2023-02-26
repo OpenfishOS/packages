@@ -1,0 +1,3 @@
+#!/bin/bash
+reprepro -Vb . includedeb openfishos pool/main/*/*.deb
+reprepro -Vb . update

@@ -1,0 +1,50 @@
+Package: calamares-settings-cutefish
+Version: 0.8.5
+Architecture: all
+Maintainer: Maksym Titenko <titenko.m@gmail.com>
+Installed-Size: 2513
+Depends: calamares-settings-ubuntu-common (>= 2.1.2.10-1)
+Conflicts: calamares-settings-cutefish
+Homepage: https://cutefish-ubuntu.github.io/
+Priority: optional
+Section: devel
+Filename: pool/main/c/calamares-settings-cutefish/calamares-settings-cutefish_0.8.5_all.deb
+Size: 21566
+SHA256: e7b50700ee90efd30ff57bb51f8820a676a86794d6030480fee33c83a428b496
+SHA1: 15955221b267b02b07f09b10aedbf7a9c2ed29aa
+MD5sum: dc0651c0fc326285f26ad39ec499cc83
+Description: CutefishOS Calamares Settings and Branding
+ This package contains the Calamares settings and branding for CutefishOS.
+ As part of the branding the installer slideshow is contained within.
+ The settings ensure a proper UbuntuDDE desktop is installed with the
+ LXQt desktop environment.
+
+Package: cutefish-icons
+Version: 0.8
+Architecture: all
+Maintainer: CutefishOS <support@cutefishos.com>
+Installed-Size: 42027
+Homepage: https://cutefishos.com
+Priority: optional
+Section: x11
+Filename: pool/main/c/cutefish-icons/cutefish-icons_0.8_all.deb
+Size: 3056812
+SHA256: f478e83b919a90a1b98bc72adae5daa1bff4771d3e083a35016d17c7301272b5
+SHA1: 4096eccaa7b6088d59ba3c6a90e32e802cf07fff
+MD5sum: 83e60b739a63bddb4ceb2ac42f501f07
+Description: CutefishOS Icons
+
+Package: cutefish-plymouth-theme
+Version: 0.5
+Architecture: all
+Maintainer: Reion Wong <reion@cutefishos.com>
+Installed-Size: 39
+Priority: optional
+Section: misc
+Filename: pool/main/c/cutefish-plymouth-theme/cutefish-plymouth-theme_0.5_all.deb
+Size: 15216
+SHA256: 6adb49540357bc01e6d4a368075d0428d069c29abbec3b7490dd06024a1f7237
+SHA1: 713ac0d6114cbb20016ddf532b2afd7bf4252225
+MD5sum: 9b4877ad88756a666cb8be9f1452b1be
+Description: Plymouth theme for CutefishOS.
+

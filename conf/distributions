@@ -1,0 +1,8 @@
+Origin: OpenfishOS
+Label: OpenfishOS
+Codename: openfishos
+Architectures: source i386 amd64
+Components: main
+Update: OpenfishOS
+Description: Apt repository for project OpenfishOS
+SignWith: 10F44A311E5D4BCD

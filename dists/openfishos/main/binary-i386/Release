@@ -1,0 +1,5 @@
+Component: main
+Origin: OpenfishOS
+Label: OpenfishOS
+Architecture: i386
+Description: Apt repository for project OpenfishOS

@@ -1,0 +1,5 @@
+Component: main
+Origin: OpenfishOS
+Label: OpenfishOS
+Architecture: source
+Description: Apt repository for project OpenfishOS

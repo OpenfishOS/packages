@@ -4,51 +4,51 @@ Hash: SHA512
 Origin: OpenfishOS
 Label: OpenfishOS
 Codename: openfishos
-Date: Sun, 26 Feb 2023 13:57:06 UTC
+Date: Sun, 26 Feb 2023 14:31:05 UTC
 Architectures: i386 amd64
 Components: main
 Description: Apt repository for project OpenfishOS
 MD5Sum:
- 21b1a27c4599524f6673c84f9b206314 1802 main/binary-i386/Packages
- 717bc116c44a627381ad0ed86d026e15 857 main/binary-i386/Packages.gz
+ 34d7aca1820b7b9fa0960e0bcfc53a21 2793 main/binary-i386/Packages
+ e8ee95c820c654a9ca8e19556b5b7358 1208 main/binary-i386/Packages.gz
  48c517e07ba6e0eb2078b7fc4b432351 123 main/binary-i386/Release
- caaf29987254ad6cd21cb78ca98497c3 25052 main/binary-amd64/Packages
- f3367c443a3d68c244e422edfd99c024 5908 main/binary-amd64/Packages.gz
+ 832b3a3a77b05c054df28e5cf0dbb8d2 26043 main/binary-amd64/Packages
+ 4b44fc1577964f687d24b7aca9521c77 6207 main/binary-amd64/Packages.gz
  6ce53f54af034ecc603ac5bebd813210 124 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  95d180eeb72c3ef2a6cb2b7e12e8c348 125 main/source/Release
 SHA1:
- c4d7fc2421352fe1134889af103b39b684ff2ba1 1802 main/binary-i386/Packages
- 33cc4724cbf9e678aab371ae77bf6f2fcc3f8681 857 main/binary-i386/Packages.gz
+ f15a63d9c3ba75cc20011d14030cff2f15a7a183 2793 main/binary-i386/Packages
+ 4c7275ed0d40ba26e25616b3e4f7b66e93d2b7f4 1208 main/binary-i386/Packages.gz
  9920b3722ec94d7d8ec00539a1a83d09026b8dc9 123 main/binary-i386/Release
- 65493172053f387c1ab2fea3211a999f51423537 25052 main/binary-amd64/Packages
- dc33df0cac8aa6f1ca8843a28400e583bbb73007 5908 main/binary-amd64/Packages.gz
+ e5836f83f30e3f8da50eba9caa4663feebbce82d 26043 main/binary-amd64/Packages
+ db3170fdd0b165fae3b14bffc911ecaa3f81f80c 6207 main/binary-amd64/Packages.gz
  60efca3cfbbbb97f70d45bb8457e63b75b7dce84 124 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  79808c71ac8063cf6b043d8e3b2b851dea8217aa 125 main/source/Release
 SHA256:
- 83b91f29f9488d0a97fcf870480187d4e0e627041d23a3d33508a5b671173ba2 1802 main/binary-i386/Packages
- e5fdfd07e09954cc5cafe3a5eef6b59e373dd0bea272deaa0b243093bb320cce 857 main/binary-i386/Packages.gz
+ 13e2845e10dd16820874337032b257616e4a3832875105489ff0186440d7cde8 2793 main/binary-i386/Packages
+ b790a146b1d37bdb15be0cc89a579f0c4ed2761d509ec1e0b2d7d52b23850e66 1208 main/binary-i386/Packages.gz
  9cf827059a37881cc6ce95f2d226e16a50e1293c9f67a7b3c0934c17cdd48dad 123 main/binary-i386/Release
- a5f92521809c0ff7373e7da141444326bfa506ea50e5cfab6bf1e550ceff7a65 25052 main/binary-amd64/Packages
- 75eab7ddbfd61fe7d65ba9439b3ce5128621e23ad1b97bf25d2d1aeb531a2e54 5908 main/binary-amd64/Packages.gz
+ 6391f24c6c5635b286e61f5c01a306edf31e4d671f2452be1ab8893331eb9382 26043 main/binary-amd64/Packages
+ cd4b0545422021ccd220463b34612841866d5f277948652a1cc10210f025e445 6207 main/binary-amd64/Packages.gz
  7346bc0f2a15db6223a670c4cb04185d79c7838e8235c3c7941d48511b6cb1e0 124 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
  3e7820486492fb6db2b04cb873d2d4affb5217913f5266a38f3f447334b6363c 125 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEET9OgoKi5ub0+TskEPRKMR5dS80FAmP7ZTgACgkQEPRKMR5d
-S80b8Qv+K48rbiOS3GX5oiEa5z/ZffvkrIFjdlDyVfHGyw86F6bM9z6mpxFXCmMG
-tLePTgrT5+LCAy1VgXhIitwp1HsOj8h4FQaFuC2qKtVqVWgDdNQfBHzIYP4D9OGw
-zlXOt1nQxKaGZYiHMImA5MUpabWZV120OBxZEGCebUpo5A1bN9FIbGzwDGhID4d2
-RZLzjqZeGfep/nrvZJTEUdAUlTpj+d3gLTCwVc/+/IGUPjRBg+CUyIK2zSqC1xd0
-yhVsS6+qA5lAiOc1+HZDRFyebuxkap/Xf8mS5QbZX3KIlJDyeDrDJf4PwTVO4hPG
-2jqEvn3E4RzhPSz8+eiZxLU/RvqRIAFYbJtAM0mEZL0JqM/SjpbdsSqlPOAo+S4T
-5LWcqDHNiVDW/67v+aRl2TIHxAmvKTYTv/KULD6EC7vHT6wUfYPDFL7OwUDs11yd
-fLVuAmDj5yo8hMIcMqDp1Tk8hWtIYHNAjNnTLnSmtIPcIiZI4/FUQTGLd6gS6Vi5
-rzfdUnD0
-=gy1w
+iQGzBAEBCgAdFiEEET9OgoKi5ub0+TskEPRKMR5dS80FAmP7bTAACgkQEPRKMR5d
+S81RLgv+MY97HQU14neTYcyOnHmYURX90FWuWmhRMRk5NX5hctoB22uRbre+6fsQ
+mrnQRr3kKim8SrmLxauuV/7iHSUXHRbfO36ga95PvrlheWQ+xvC88nFMWqZQkLVL
+mw/XPFUSZd7+FbgUImehCywBHzUVn99/OzREMEHr7ybgRiyL1wrRd9YIpHb3RHKF
+747fJMfnGh0YJMa3KGCRdDDgT6YFHh4sR1xPB0fTUMYXJM7pGLM2bSDMvuBgZLjg
+Yz1jo9CHphUsjOx/JQ44gjbj5MYDUrU5xQzfcDACT8Hx9Y9YSDmfrwumv8F6kaqY
+Ok87iC/lABhboJBiYFxbBqGP8Q1JHdL1ogTibCmLQgDs4AmrycyxC3PLPWCAtC8+
+nybACWDuVLXT1dgBhi3XOA2HfDVz7cEM+K67IhEs2J/356aHFdLI6GVIdk+YOrdK
+YZ0EoN1NidqaZbdCvePcJizQSxwGZetEEghstO80FEhw8eaGmn+hEFDrvIeoKQ2f
+PCx04W2u
+=Gwsc
 -----END PGP SIGNATURE-----
